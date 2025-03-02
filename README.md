@@ -2,6 +2,10 @@
 
 WhisperWell is an AI-powered therapy assistant that uses facial recognition, voice synthesis, and natural language processing to provide an interactive therapy experience.
 
+## DISCLAIMER
+
+This code is not very clean and you will need to use AI tools to assist you in setting this up as the README is incomplete
+
 ## Features
 
 - 🎭 Real-time emotion detection through facial recognition
